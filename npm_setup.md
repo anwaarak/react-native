@@ -1,5 +1,7 @@
 > react native vector icons
 
-npm install -g react-native-vector-icons --save
+Guide : https://github.com/oblador/react-native-vector-icons#bundled-icon-sets
 
-npm install -g react-native-elements --save
+npm install react-native-vector-icons --save
+
+npm install react-native-elements --save
