@@ -8,3 +8,9 @@ npm install react-native-elements --save
 
 
 npm i redux-devtools-extension
+
+## Push Notifications
+
+> https://github.com/zo0r/react-native-push-notification
+
+npm install --save react-native-push-notification
