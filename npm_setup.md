@@ -19,6 +19,7 @@ npm install --save react-native-push-notification
 
 > https://reactnavigation.org/docs/getting-started
 
-npm install @react-navigation/native
-npm install react-native-screens react-native-safe-area-context
+npm install @react-navigation/native --save
+
+npm install react-native-screens react-native-safe-area-context --save
 
