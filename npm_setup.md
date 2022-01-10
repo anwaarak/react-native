@@ -14,3 +14,9 @@ npm i redux-devtools-extension
 > https://github.com/zo0r/react-native-push-notification
 
 npm install --save react-native-push-notification
+
+## Navigation
+
+> https://reactnavigation.org/docs/getting-started
+
+npm install @react-navigation/native
