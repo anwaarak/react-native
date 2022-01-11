@@ -75,3 +75,5 @@ npx react-native log-ios
 npx react-native log-android
 
 
+https://medium.com/@tetsuyahasegawa/how-to-integrate-react-native-debugger-to-your-expo-react-native-project-db1d631fad02
+
