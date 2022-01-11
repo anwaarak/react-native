@@ -33,3 +33,23 @@ Guide : https://github.com/oblador/react-native-vector-icons#bundled-icon-sets
 
 `npm install react-native-screens react-native-safe-area-context --save`
 
+## Debugger
+
+`npm install react-native-debugger`
+`npm install --save react-native-devsettings-android`
+
+If you want to enable debugging by default:
+
+import { NativeModules } from 'react-native';
+
+if (__DEV__) {
+  NativeModules.DevSettings.setIsDebuggingRemotely(true)
+}
+To get this working on Android:
+
+npm install --save react-native-devsettings-android
+react-native link react-native-devsettings-android
+
+
+
+
