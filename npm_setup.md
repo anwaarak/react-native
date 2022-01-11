@@ -33,6 +33,10 @@ Guide : https://github.com/oblador/react-native-vector-icons#bundled-icon-sets
 
 `npm install react-native-screens react-native-safe-area-context --save`
 
+## React Devtools
+
+`npm install -g react-devtools`
+
 ## Debugger
 
 `npm install react-native-debugger`
