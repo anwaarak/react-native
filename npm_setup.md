@@ -39,6 +39,8 @@ Guide : https://github.com/oblador/react-native-vector-icons#bundled-icon-sets
 
 ## Debugger
 
+`https://reactnative.dev/docs/debugging`
+
 `npm install react-native-debugger`
 
 `npm install --save react-native-devsettings-android`
