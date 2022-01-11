@@ -1,4 +1,4 @@
-> react native vector icons
+## React native vector icons
 
 Guide : https://github.com/oblador/react-native-vector-icons#bundled-icon-sets
 
