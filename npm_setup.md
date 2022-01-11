@@ -51,5 +51,10 @@ npm install --save react-native-devsettings-android
 react-native link react-native-devsettings-android
 
 
+## Logs
+
+For IOS $ react-native log-ios
+For Android $ react-native log-android
+
 
 
