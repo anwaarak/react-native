@@ -39,21 +39,25 @@ Guide : https://github.com/oblador/react-native-vector-icons#bundled-icon-sets
 
 `npm install --save react-native-devsettings-android`
 
-'npm install --save redux-devtools-extension'
+`npm install --save redux-devtools-extension`
+
+
 
 
 
 If you want to enable debugging by default:
 
-import { NativeModules } from 'react-native';
+`import { NativeModules } from 'react-native';
 
 if (__DEV__) {
   NativeModules.DevSettings.setIsDebuggingRemotely(true)
-}
+}`
+
 To get this working on Android:
 
-npm install --save react-native-devsettings-android
-react-native link react-native-devsettings-android
+`npm install --save react-native-devsettings-android`
+
+`react-native link react-native-devsettings-android`
 
 
 ## Logs
