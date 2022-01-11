@@ -69,5 +69,7 @@ To get this working on Android:
 For IOS $ react-native log-ios
 For Android $ react-native log-android
 
+npx react-native log-ios
+npx react-native log-android
 
 
