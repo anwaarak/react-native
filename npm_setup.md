@@ -37,6 +37,8 @@ Guide : https://github.com/oblador/react-native-vector-icons#bundled-icon-sets
 
 `npm install react-native-debugger`
 `npm install --save react-native-devsettings-android`
+`npm install --save react-devtools-extension`
+
 
 If you want to enable debugging by default:
 
