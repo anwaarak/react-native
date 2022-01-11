@@ -1,3 +1,14 @@
+## Setup project
+
+> The create-react-native-app ("CRNA") CLI builds a project template based on Expo, 
+
+`create-react-native-app my-project`
+
+> By contrast, the react-native CLI's init command creates a plain React Native app template, with native iOS and Android projects you can modify
+
+`npx react-native init AwesomeProject`
+
+
 ## React native vector icons
 
 Guide : https://github.com/oblador/react-native-vector-icons#bundled-icon-sets
